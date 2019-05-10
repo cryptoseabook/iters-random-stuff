@@ -1,4 +1,8 @@
-<img src="https://user-images.githubusercontent.com/35029364/56102610-73c8e680-5f71-11e9-82b5-b002f5cd74a5.png" alt="iters logo" width="200"/> <br> http://iters.com.au
+<div>
+<span><img src="https://user-images.githubusercontent.com/35029364/56102610-73c8e680-5f71-11e9-82b5-b002f5cd74a5.png" alt="iters logo" width="200"/> </span>
+<span style="float:right"><img src="https://user-images.githubusercontent.com/35029364/56187466-0a76cf80-6066-11e9-8066-53cf755b80e9.jpg" alt="iters logo" width="60"/> </span>
+<br> http://iters.com.au
+</div>
 
 # 墨尔本极客学院招聘 管培生x2
 
@@ -17,7 +21,7 @@
  - 要求性格积极阳光，外向
  - 要求有IT知识，了解java，nodejs，web等基本知识
  - 熟练运用google docs，zoom，word，excel，微信公众号等工具
- - 有一定的marketing经验，会做banner，photoshop等
+ - 有一定的marketing经验，会做banner，photoshop等sdaf
  - 良好的沟通协调能力,执行能力和亲和力
  - 良好的自我学习能力
 
@@ -36,6 +40,9 @@
  - 获得价值超过2w刀的免费课程学习机会
  - 公司未来核心的培养，大牛倾情奉献20年的经验和人脉
  - 期权奖励
+ - 高額補貼
+
+<span style="color:red">&#10084;&#10084;&#10084;</span> 有興趣掃右上角二維碼詢問
 
 
 
