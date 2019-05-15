@@ -15,7 +15,7 @@
 - [Deep Learning to Solve Challenging Problems (Google I/O'19)](https://youtu.be/rP8CGyDbxBY)
 - [Google AI Impact Challenge: Using Technology to Change the World (Google I/O'19)](https://youtu.be/XVzOCy_H2pg)
 
-## Mobile and Web and Google Assistant
+## Mobile, Web and Google Assistant
 - [Intro to the Google Assistant: Build Your First Action (Google I/O'19)](https://youtu.be/dpNrq_wiqGs)
 - [Beyond Mobile: Building Flutter Apps for iOS, Android, Chrome OS, and Web](https://youtu.be/IyFZznAk69U)
 - [Zero to App: Live Coding a Cross-Platform App on Firebase](https://youtu.be/gvbq12bGqHI)
